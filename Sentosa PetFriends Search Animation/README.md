@@ -1,2 +1,3 @@
-# Challenge-project-Work-with-variable-data-in-CSharp
-Starter and Solution code for the **Challenge project**: "Work with variable data in C# console applications" from the Microsoft Learn collection "Getting started with C#"
+In this version of the app there are a few additional functionalities: 
+1: A multi-term search functionality for the "dogs" search 
+2: The "search status" animation, information and countdown
